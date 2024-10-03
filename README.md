@@ -34,5 +34,6 @@ Use the model to predict:
 https://huggingface.co/spaces/HusamAlzain/disease-prediction
 
 Prediction Example
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/3d9a03dc-e3b6-438e-86a0-2810b2b190a1)
+
 
