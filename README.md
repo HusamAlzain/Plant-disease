@@ -29,3 +29,10 @@ The final model achieved an overall accuracy of 94%, showing strong performance 
 
 To access the notebook:
 https://colab.research.google.com/gist/HusamAlzain/c4020362e4735f574787c2981131bedc/palm-disease-notebook.ipynb
+
+Use the model to predict:
+https://huggingface.co/spaces/HusamAlzain/disease-prediction
+
+Prediction Example
+![Uploading image.png…]()
+
