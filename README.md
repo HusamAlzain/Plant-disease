@@ -14,7 +14,7 @@ Dataset: Custom dataset of palm leaf images with various diseases and healthy sa
 # Dataset
 The dataset consists of palm tree leaf images across several categories, including various types of diseases and healthy samples.
 It has been collected by the team, with a supervision of an agricultural engineer
-Dataset can be found here https://www.kaggle.com/datasets/husamalzain/palm-disease-dataset/data
+Dataset can be found here https://www.kaggle.com/datasets/husamalzain/palm-disease-dataset/data + Healthy sample dataset [included in this GitHub repo]
 
 # Model Architecture
 The model is built upon the ResNet50 architecture, pre-trained on ImageNet. ResNet50 was chosen because of its strong performance in image classification tasks.
